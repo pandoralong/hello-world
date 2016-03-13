@@ -1,0 +1,2 @@
+# My plan for working.
+# write the software as CQ querying.
